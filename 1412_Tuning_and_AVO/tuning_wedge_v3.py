@@ -5,7 +5,9 @@ Created by:    Wes Hamlyn
 Create Date:   19-Aug-2014
 Last Mod:      5-Feb-2015
                -addition of bandpass wavelet
-               
+               3-Mar-2023
+               -fixes for Python 3
+              
 This script is provided without warranty of any kind.
 
 """
